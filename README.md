@@ -1,3 +1,4 @@
+
 # Steps To Follow:
 
 * Pre-requisites
@@ -38,8 +39,6 @@ Steps:
       ```bash
           python Nova.py
       ```
-   
-   
    
    
 
